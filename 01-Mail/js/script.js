@@ -18,3 +18,10 @@ for (let i = 0; i < invitedEmails.length; i++){
     break;         
   }
 }
+// 4. Verifica
+if (found){
+  console.log("Accesso consentito");
+} 
+else{
+  console.log("Accesso negato");
+}

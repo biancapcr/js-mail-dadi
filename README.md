@@ -98,9 +98,11 @@ console.log("Lancio computer: " + computerRoll);
 - Confrontare i due valori e stampare esito:
 if (playerRoll > computerRoll){
   console.log("Hai vinto!");
-} else if (playerRoll < computerRoll){
+} 
+else if (playerRoll < computerRoll){
   console.log("Hai perso!");
-} else {
+} 
+else {
   console.log("Pareggio!");
 }
 

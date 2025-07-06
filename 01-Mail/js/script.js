@@ -6,3 +6,5 @@ const invitedEmails =[
   "davide@example.com",
   "anna@example.com"
 ];
+// 2. Richiesta dell'e-mail all'utente
+const userEmail = prompt("Inserisci la tua email:");

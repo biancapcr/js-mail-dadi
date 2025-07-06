@@ -102,7 +102,7 @@ if (playerRoll > computerRoll){
 else if (playerRoll < computerRoll){
   console.log("Hai perso!");
 } 
-else {
+else{
   console.log("Pareggio!");
 }
 
